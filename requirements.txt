@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn[standard]
+trafilatura
+readability-lxml
+beautifulsoup4
+pymupdf
+pdfminer.six
+regex
+num2words
+dateparser
+pydub
+coqpit
+TTS  # for Coqui TTS, optional if you choose Piper

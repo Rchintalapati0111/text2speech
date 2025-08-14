@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+out/
+*.wav
+*.mp3
+assets/voices/
+*.onnx
+*.pt
+*.npy
+*.npz
+*.log
