@@ -1,8 +1,11 @@
 Accessible Web/PDF → Speech (TTS)  
+
 Turn any web page or PDF into clear, natural speech.
+
 Built with Streamlit, robust content extraction, light text normalization, and Coqui TTS (Tacotron2 + UnivNet). Optional Piper backend for fast, offline CPU synthesis.
 
-✨ Features
+✨ Features  
+
 URL → audio and PDF → audio
 
 Clean extraction with trafilatura (fallback to Readability)
